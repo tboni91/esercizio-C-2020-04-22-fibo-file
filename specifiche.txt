@@ -1,1 +1,7 @@
-...
+riprendere l'esercizio https://github.com/marcotessarotto/esercizio-C-2020-03-30/
+
+calcolare fibonacci_array(39) e scrivere i valori dell'array in formato testo in un file chiamato fibonacci.txt
+
+se il file esiste, deve essere sovrascritto
+
+il programma scrive nel file un valore (in formato testo) per riga 
