@@ -1,4 +1,4 @@
-# esercizio-C-TEMPLATE
+# esercizio-C-esercizio-C-2020-04-22-fibo-file
 
 Le specifiche dell'esercizio si trovano nel file 'specifiche.txt'.
 
