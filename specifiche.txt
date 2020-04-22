@@ -5,3 +5,8 @@ calcolare fibonacci_array(39) e scrivere i valori dell'array in formato testo in
 se il file esiste, deve essere sovrascritto
 
 il programma scrive nel file un valore (in formato testo) per riga 
+
+
+per convertire un numero intero in stringa, vedere:
+
+https://github.com/marcotessarotto/exOpSys/tree/master/003.2sprintf
